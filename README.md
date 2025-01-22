@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Here's a sample `README.md` file content for your project, which outlines the purpose, setup instructions, and other essential details. This format can be customized based on the specifics of your project.
 
-```markdown
+
 # Interactive Data Table with Google Sheets Integration
 
 This project is a web application that allows users to interact with data fetched from Google Sheets. It features a login system and displays the data in a user-friendly table format.
