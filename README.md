@@ -165,9 +165,4 @@ If you have any questions or issues, feel free to open an issue in the GitHub re
 ---
 
 *Note: Ensure your `credentials.json` file is not shared publicly as it contains sensitive information.*
-```
 
-### Instructions to Customize:
-- Replace `your-username` with your GitHub username.
-- Add any additional instructions specific to your project setup or usage.
-- Update sections as needed to reflect any unique features or setup requirements of your project.
